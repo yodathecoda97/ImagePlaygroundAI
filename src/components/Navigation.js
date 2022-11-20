@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navigation = () => {
   return (
-    <Section>Navigation</Section>
+    <div>Navigation</div>
   )
 }
 
